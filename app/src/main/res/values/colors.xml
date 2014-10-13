@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Guide: http://www.google.com/design/spec/style/color.html#color-ui-color-palette -->
+    <!-- Red Theme -->
+    <!--<color name="primary">#e74c3c</color>
+    <color name="primaryDark">#c0392b</color>
+    <color name="light">#ecf0f1</color>
+    <color name="dark">#2c3e50</color>-->
+
+    <!-- Red -->
+    <color name="red">#e51c23</color>
+    <color name="redDark">#b0120a</color>
+
+    <!-- Blue -->
+    <color name="blue">#5677fc</color>
+    <color name="blueDark">#2a36b1</color>
+
+    <!-- Misc -->
+    <color name="light">#ecf0f1</color>
+    <color name="dark">#2c3e50</color>
+</resources>
